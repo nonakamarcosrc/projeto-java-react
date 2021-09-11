@@ -11,7 +11,7 @@ const Routes = () => {
 
                 </Route>
 
-                <Route path="/Dashboard" exact>
+                <Route path="/dashboard" exact>
                     <Dashboard></Dashboard>
 
                 </Route>
